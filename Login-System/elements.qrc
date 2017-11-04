@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>user.png</file>
+        <file>icon.ico</file>
+        <file>PC-Header.jpg</file>
+    </qresource>
+</RCC>
